@@ -20,6 +20,8 @@ As GenAI rapidly evolves, more people are eager to learn it for career advanceme
 
 Even using ChatGPT for coding help often yields deprecated code, as GenAI packages and methods (LangChain, LlamaIndex, Hugging Face) are updated frequently. This assistant solves that problem by providing **up-to-date, personalized guidance** powered by real-time web search.
 
+![Workflow Graph](https://drive.google.com/uc?export=view&id=1kw2oOWtV4rynXjHjiZbrUdTJgJbQzm-Y)
+
 ---
 
 ## ✨ Key Features
